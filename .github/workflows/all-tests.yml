@@ -2,7 +2,7 @@ name: All Tests on Master
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 jobs:
   run-all-tests:
